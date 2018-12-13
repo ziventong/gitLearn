@@ -1,3 +1,3 @@
-git is a version controle system!
-hello git!
-hello world,my git!
+git is version controle system!
+hello,my git!
+git is free software.
